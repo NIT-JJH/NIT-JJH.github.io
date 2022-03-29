@@ -1,60 +1,9 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-
-<head>
-
-  <title>Yunhe Wang's Homepage</title>
-
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Yunhe Wang is currently a senior researcher at Huawei Noah's Ark Lab">
-  <meta name="keywords" content="Yunhe Wang, 王云鹤, wangyunhe, Yunhe, Wang, Deep Learning, Huawei, PKU, Computer, Vision">
-  <meta name="author" content="Yunhe Wang" />
-
-  <link rel="stylesheet" href="w3.css">
-
-  <style>
-  .w3-sidebar a {font-family: "Roboto", sans-serif}
-  body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
-  </style>
-
-  <link rel="icon" type="image/png" href="images/icons.png">
-  <!--
-  <script src="jquery.min.js"></script>
-  <script>
-  $(document).ready(function(){
-    // Add smooth scrolling to all links
-    $("a").on('click', function(event) {
-      // Make sure this.hash has a value before overriding default behavior
-      if (this.hash !== "") {
-        // Prevent default anchor click behavior
-        event.preventDefault();
-        // Store hash
-        var hash = this.hash;
-        // Using jQuery's animate() method to add smooth page scroll
-        // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-        $('html, body').animate({
-          scrollTop: $(hash).offset().top
-        }, 800, function(){
-          // Add hash (#) to URL when done scrolling (default click behavior)
-          window.location.hash = hash;
-        });
-      } // End if
-    });
-  });
-  </script>
-  //-->
-
-</head>
-
-
-<body class="w3-content" style="max-width:1000px">
-
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-bar-block w3-black w3-collapse w3-top w3-right" style="z-index:3;width:150px" id="mySidebar">
   <div class="w3-container w3-display-container w3-padding-16">
-    <h3><b>YUNHE</b></h3>
+    <h3><b>Jianhui Jin</b></h3>
   </div>
   <div class="w3-padding-64 w3-text-light-grey w3-large" style="font-weight:bold">
     <a href="#home" class="w3-bar-item w3-button">Home</a>
