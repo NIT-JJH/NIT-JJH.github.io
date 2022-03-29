@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-bar-block w3-black w3-collapse w3-top w3-right" style="z-index:3;width:150px" id="mySidebar">
@@ -18,7 +17,7 @@
 
 <!-- Top menu on small screens -->
 <header class="w3-bar w3-top w3-hide-large w3-black w3-xlarge">
-  <div class="w3-bar-item w3-padding-24">YUNHE</div>
+  <div class="w3-bar-item w3-padding-24">Jianhui Jin</div>
   <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-24 w3-right"  style="font-stretch: extra-expanded;" onclick="w3_open()"><b>≡</b></a>
   </div>
 </header>
@@ -35,15 +34,15 @@
 <!-- The Home Section -->
     <div class="w3-container w3-center w3-padding-32" id="home">
       <img style="width: 80%;max-width: 320px" alt="profile photo" src="images/Yunhe_new.jpg">
-      <h1>Yunhe Wang</h1>
+      <h1>Jianhui Jin</h1>
         <p class="w3-justify" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;max-width:600px">
           I am a senior researcher at <a href="https://www.noahlab.com.hk/">Huawei Noah's Ark Lab</a>, Beijing, where I work on deep learning, model compression, and computer vision, etc. Before that, I did my PhD at school of EECS, <a href="https://www.pku.edu.cn/">Peking University</a>, where I was co-advised by Prof. <a href="https://dblp.org/pers/hd/x/Xu_0006:Chao">Chao Xu</a></a> and Prof. <a href="https://scholar.google.com.sg/citations?user=RwlJNLcAAAAJ">Dacheng Tao</a></a>. I did my bachelors at school of science, <a href="https://en.xidian.edu.cn/">Xidian University</a>.
         </p>
         <p class="w3-center">
-          <a href="mailto:yunhe.wang@huawei.com">Email</a> &nbsp/&nbsp
-          <a href="https://scholar.google.com/citations?user=isizOkYAAAAJ">Google Scholar</a> &nbsp/&nbsp
-          <a href="https://www.zhihu.com/people/YunheWang"> Zhi Hu </a> &nbsp/&nbsp
-          <a href="https://dblp.org/pid/63/8217-1.html"> DBLP </a>
+          <a href="mailto:jinjianhui666@163.com">Email</a>
+          <a href="https://scholar.google.com/citations?user=E9ddt6QAAAAJ">Google Scholar</a>
+          <a href="https://www.zhihu.com/people/jin-jian-hui-26-47"> Zhi Hu </a>
+          <a href="https://dblp.org/pid/312/4047"> DBLP </a>
         </p>
         </tbody></table>
   </div>
@@ -51,28 +50,8 @@
 <!-- The News Section -->
   <div class="w3-container w3-light-grey w3-padding-32" id="news">
    <h2>News</h2>
-   	  <p><li> 02/2022, Our suvery paper on vision transformer has been accepted by <a href="https://arxiv.org/pdf/2012.12556">IEEE TPAMI</a>.</li></p>
-      <p><li> 09/2021, 10 papers have been accepted by <a href="https://nips.cc/Conferences/2021">NeurIPS 2021</a>. Congrats to everyone!</li></p>
-      <p><li> 09/2021, The journal version of versatile filters has been accepted by <a href="https://ieeexplore.ieee.org/iel7/34/4359286/09543586.pdf">IEEE TPAMI</a>.</li></p>
-      <p><li> 07/2021, 1 paper has been accepted by <a href="https://iccv2021.thecvf.com/home">ICCV 2021</a>.</li></p>
-      <p><li> 05/2021, 1 paper has been accepted by <a href="https://icml.cc/">ICML 2021</a>.</li></p>
-      <p><li> 05/2021, I have been selected as a Senior Area Chair for <a href="http://valser.org/">VALSE 2021</a>.</li></p>
-      <p><li> 03/2021, I accepted the invitation to serve as an Area Chair for <a href="https://nips.cc/Conferences/2021/">NeurIPS 2021</a>.</li></p>
-      <p><li> 03/2021, 9 papers have been accepted by <a href="http://cvpr2021.theRcvf.com/">CVPR 2021</a>.</li></p>
-      <!--
-      <p><li> 01/2021, I will give a talk about AdderNet at <a href="https://haet2021.github.io/speakers.html">HAET ICLR 2021 workshop</a>.</li></p>
-      <p><li> 12/2020, two papers have been accepted by <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a>.</li></p>
-      <p><li> 11/2020, I accepted the invitation to serve as an Area Chair for <a href="https://icml.cc/Conferences/2021">ICML 2021</a>.</li></p>
-      <p><li> 09/2020, six papers have been accepted by <a href="https://nips.cc/Conferences/2020">NeurIPS 2020</a>.</li></p>
-      <p><li> 07/2020, one paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li></p>
-      <p><li> 07/2020, one paper has been accepted by <a href="https://eccv2020.eu/accepted-papers/">ECCV 2020</a>.</li></p>
-      <p><li> 06/2020, two papers have been accepted by <a href="https://icml.cc/Conferences/2020/AcceptedPapersInitial">ICML 2020</a>.</li></p>
-      <p><li> 07/2020, one paper has been accepted by <a href="http://2020.acmmm.org/accepted-paper-id-list.txt">ACM MM 2020</a>.</li></p>
-      <p><li> 02/2020, seven papers have been accepted by <a href="http://openaccess.thecvf.com/menu.py">CVPR 2020</a>.</li></p>
-      <p><li> 01/2020, one paper has been accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385">IEEE TNNLS</a>.</li></p>
-      <p><li> 11/2019, three papers have been accepted by <a href="https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf">AAAI 2020</a>.</li></p>
-      -->
-
+   	  <p><li> 03/2022, Our suvery paper on remote sensings image has been accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9735276">IEEE JSTSP</a>.</li></p>
+      <p><li> 07/2021, 1 paper has been accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9538389">IEEE TGRS</a>.</li></p>
   </div>
 <!-- The Projects Section -->
   <div class="w3-container w3-padding-32" id="projects">
