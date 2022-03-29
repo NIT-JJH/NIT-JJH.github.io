@@ -1,10 +1,9 @@
-## Welcome to visit Jianhui Jin's HomePages
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
 
-  <title>Jianhui Jin's Homepage</title>
+  <title>Yunhe Wang's Homepage</title>
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
