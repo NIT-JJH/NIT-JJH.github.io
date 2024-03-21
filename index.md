@@ -41,7 +41,7 @@
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
 
-<li style="margin-bottom: 15px"><b>J. Jin/<b>, W. Zhou, R. Yang, L. Ye, L. Yu, "Edge detection guide network for semantic segmentation of remote-sensing images,” <b><i>IEEE Geoscience and Remote Sensing Letters</i></b>, doi: 10.1109/LGRS.2023.3234257. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/abstract/document/10006827" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"><b>J. Jin</b>, W. Zhou, R. Yang, L. Ye, L. Yu, "Edge detection guide network for semantic segmentation of remote-sensing images,” <b><i>IEEE Geoscience and Remote Sensing Letters</i></b>, doi: 10.1109/LGRS.2023.3234257. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/abstract/document/10006827" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 
 <li style="margin-bottom: 15px"><b>J. Jin</b>, W. Zhou, L. Ye, J. Lei, L. Yu, X. Qian, T. Luo, "DASFNet: Dense-attention–similarity-fusion network for scene classification of dual-modal remote-sensing images,” <b><i>International Journal of Applied Earth Observation and Geoinformation</i></b>, doi: 10.1016/j.jag.2022.103087. <span style="color:blue">(SCI)</span> <a href="https://www.sciencedirect.com/science/article/pii/S1569843222002758" target="_blank">[ELSEVIER] </a> 
