@@ -18,7 +18,7 @@
 
 ### Recent News
 
-<div style="text-align:justify;text-justify:inter-ideograph">09/2023 Pursuing a doctoral degree in Information and Communication Engineering at <span style="color:black"><b><i>Ningbo University</i> </b> </span>, under the guidance of Professor <span style="color:black"><b><i>Qiuping Jiang</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">09/2023 Pursuing a doctoral degree in Information and Communication Engineering at <span style="color:black"><b><i>Ningbo University</i> </b> </span>, under the guidance of Professor <span style="color:black"><b><i><a href="http://jiangqiuping.com" target="_blank">Qiuping Jiang</a></i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Geoscience and Remote Sensing Letters</i> </b> </span></div>
 
