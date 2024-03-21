@@ -1,128 +1,280 @@
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<!-- Sidebar/menu -->
-<nav class="w3-sidebar w3-bar-block w3-black w3-collapse w3-top w3-right" style="z-index:3;width:150px" id="mySidebar">
-  <div class="w3-container w3-display-container w3-padding-16">
-    <h3><b>Jianhui Jin</b></h3>
-  </div>
-  <div>
-    <a href="#home">Home</a>
-    <a href="#news">News</a>
-    <a href="#projects">Projects</a>
-    <a href="#talks">Talks</a>
-    <a href="#publications">Research</a>
-    <a href="#award">Awards</a>
-  </div>
-</nav>
+### Welcome to visit Wujie Zhou's Homepage!
+<table>
+  <tr>
+   <td width="70%">
+    <h1> Wujie Zhou </h1>
+    <p><b> Ph.D., Associate Professor </b></p>
+    <p><b> Email: wujiezhou@163.com </b></p> 
+    <p> <b><a href="https://www.scholat.com/zhouwujie">中文简历</a> </b> </p>
+    <p> <b> Research Interests: </b> </p>
+    <p> Computer vision </p>  
+    <p> Deep Learning</p>  
+    <p> Image Processing</p>      
+   </td>
+    <td width="30%">
+      <img src="/wujiezhou.jpg" width="100%">
+   </td>
+  </tr>  
+</table> 
 
-<!-- Top menu on small screens -->
-<header class="w3-bar w3-top w3-hide-large w3-black w3-xlarge">
-  <div class="w3-bar-item w3-padding-24">Jianhui Jin</div>
-  <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-24 w3-right"  style="font-stretch: extra-expanded;" onclick="w3_open()"><b>≡</b></a>
-  </div>
-</header>
+### Recent News
 
-<!-- Overlay effect when opening sidebar on small screens -->
-<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Instrumentation and Measurement</i> </b> </span></div>
 
-<!-- !PAGE CONTENT! -->
-<div class="w3-main" style="margin-left:150px">
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Circuits and Systems for Video Technology</i> </b> </span></div>
 
-  <!-- Push down content on small screens -->
-  <div class="w3-hide-large" style="margin-top:83px"></div>
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Multimedia</i> </b> </span></div>
 
-<!-- The Home Section -->
-    <div class="w3-container w3-center w3-padding-32" id="home">
-      <img style="width: 80%;max-width: 320px" alt="profile photo" src="images/Yunhe_new.jpg">
-      <h1>Jianhui Jin</h1>
-        <p class="w3-justify" style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;max-width:600px">
-          I am a senior researcher at <a href="https://www.noahlab.com.hk/">Huawei Noah's Ark Lab</a>, Beijing, where I work on deep learning, model compression, and computer vision, etc. Before that, I did my PhD at school of EECS, <a href="https://www.pku.edu.cn/">Peking University</a>, where I was co-advised by Prof. <a href="https://dblp.org/pers/hd/x/Xu_0006:Chao">Chao Xu</a></a> and Prof. <a href="https://scholar.google.com.sg/citations?user=RwlJNLcAAAAJ">Dacheng Tao</a></a>. I did my bachelors at school of science, <a href="https://en.xidian.edu.cn/">Xidian University</a>.
-        </p>
-        <p class="w3-center">
-          <a href="mailto:jinjianhui666@163.com">Email</a>
-          <a href="https://scholar.google.com/citations?user=E9ddt6QAAAAJ">Google Scholar</a>
-          <a href="https://www.zhihu.com/people/jin-jian-hui-26-47"> Zhi Hu </a>
-          <a href="https://dblp.org/pid/312/4047"> DBLP </a>
-        </p>
-  </div>
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>Expert Systems With Applications</i> </b> </span></div>
 
-<!-- The News Section -->
-  <div class="w3-container w3-light-grey w3-padding-32" id="news">
-   <h2>News</h2>
-   	  <p><li> 03/2022, Our suvery paper on remote sensings image has been accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9735276">IEEE JSTSP</a>.</li></p>
-      <p><li> 07/2021, 1 paper has been accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9538389">IEEE TGRS</a>.</li></p>
-  </div>
-<!-- The Projects Section -->
-  <div class="w3-container w3-padding-32" id="projects">
-    <h2>Recent Projects</h2>
-    <p class="w3-justify">
-        Actually, model compression is a kind of technique for developing portable deep neural networks with lower memory and computation costs. I have done several projects in Huawei including some smartphones' applications in 2019 and 2020 (e.g. Mate 30 and Honor V30). Currently, I am leading the AdderNet project, which aims to develop a series of deep learning models using only additions (<a href="https://www.reddit.com/r/MachineLearning/comments/ekw2s1/r_addernet_do_we_really_need_multiplications_in/">Discussions on Reddit</a>).
-    </p>
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
 
-        <h4><li>Adder Neural Networks</li></h4>
-        <img style="width:96%;" src="images/AdderNet.jpg"> 
-        <p class="w3-justify">
-        <a style="color: #447ec9" href="https://github.com/huawei-noah/AdderNet">Project Page</a> | <a style="color: #447ec9" href="https://arxiv.org/pdf/2101.10015.pdf">Hardware Implementation</a>
-        </p>
-        <p class="w3-justify">
-        I would like to say, <span style="color:red">AdderNet is very cool!</span> The initial idea was came up in about 2017 when climbing with some friends at Beijing. By replacing all convolutional layers (except the first and the last layers), we now can obtain comparable performance on ResNet architectures. In addition, to make the story more complete, we recent release the hardware implementation and some quantization methods. The results are quite encouraging, we can reduce both <strong>the energy consumption and thecircuit areas significantly without affecting the performance</strong>. Now, we are working on more applications to reduce the costs of launching AI algorithms such as low-level vision, detection, and NLP tasks.
-        </p> 
+<div style="text-align:justify;text-justify:inter-ideograph">09/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Vehicles</i> </b> </span></div>
 
-        <h4><li>GhostNet on MindSpore: SOTA Lightweight CV Networks</li></h4>
-        <img style="width:96%;" src="images/GhostNet.png"> 
-        <p class="w3-justify">
-        <a style="color: #447ec9" href="https://live.huawei.com/huaweiconnect/meeting/cn/5872.html">Huawei Connect (HC) 2020</a> | <a style="color: #447ec9" href="https://www.mindspore.cn/resources/hub">MindSpore Hub</a>
-        </p>
-        <p class="w3-justify">
-        The initial verison of GhostNet was accepted by CVPR 2020, which achieved SOTA performance on ImageNet: <span style="color:red">75.7%</span> top1 acc with only <span style="color:red">226M FLOPS</span>. In the current version, we release a series computer vision models (e.g. int8 quantization, detection, and larger networks) on <strong>MindsSpore 1.0</strong> and <strong>Mate 30 Pro (Kirin 990)</strong>.
-        </p> 
+<div style="text-align:justify;text-justify:inter-ideograph">09/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Automation Science and Engineering</i> </b> </span></div>
 
-        <h4><li>AI on Ascend: Real-Time Video Style Transfer</li></h4>
-        <img style="width:32%;" src="images/atlas200.png"> &nbsp&nbsp <img style="width:60%;" src="images/video.gif">
-        <p class="w3-justify">
-        <a style="color: #447ec9" href="https://www.huaweicloud.com/intl/en-us/HDC.Cloud.html">Huawei Developer Conference (HDC) 2020</a> | <a style="color: #447ec9" href="https://developer.huaweicloud.com/exhibition/Atlas_neural_style.html">Online Demo</a>
-        </p>
-        <p class="w3-justify">
-        This project aims to develop a video style transfer system on the <strong>Huawei Atlas 200 DK AI developer Kit</strong>. The latency of the original model for processing one image is about <span style="color:red">630ms</span>. After accelerating it using our method, the lantency now is about <span style="color:red">40ms</span>. 
-        </p>  
+<div style="text-align:justify;text-justify:inter-ideograph">08/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </span></div>
 
-  </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">07/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">07/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">05/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Circuits and Systems for Video Technology</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">05/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:black"><b><i>Information Fusion </i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Instrumentation and Measurement</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">08/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been newly selected as <span style="color:black"><b><i>ESI Hot Paper</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=76" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:black"><b><i> IEEE Transactions on Circuits and Systems for Video Technology.</i> </b> </span> </div> 
+
+<div style="text-align:justify;text-justify:inter-ideograph">04/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Vehicles</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Multimedia</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE TETCI</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper has been newly selected as <span style="color:black"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:black"><b><i> IEEE Transactions on Image Processing.</i> </b> </span> </div> 
+
+<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=9670" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:black"><b><i> IEEE Intelligent Systems.</i> </b> </span> </div> 
+
+<div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <span style="color:black"><b><i>AAAI2022, Acceptance rate 15%</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">11/2021 One paper has been newly selected as <span style="color:black"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <span style="color:black"><b><i>IEEE TETCI</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been newly selected as <span style="color:black"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:black"><b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </span> </div>
+
+### Selected Publications
+#### Saliency Prediction / Salient Object Detection
+
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
   
-  <!-- The Talks Section -->
-  <div class="w3-container w3-light-grey w3-padding-32" id="talks">
-    <h2>Talks</h2>
-      <p><li> 10/2021, Vision Transformer at <a href="https://haet2021.github.io/speakers.html">HAET ICLR 2021 workshop</a>.</li></p>
-	  <p><li> 05/2021, Adder Neural Network at <a href="https://haet2021.github.io/speakers.html">HAET ICLR 2021 workshop</a>. Thanks <a href="https://datawisdom.ca/">Vahid</a> for the invitation.</li></p>
-      <p><li> 06/2020, "<a href="http://valser.org/webinar/slide/slides/20200603/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9-%E5%B7%A5%E4%B8%9A%E7%95%8C%E5%92%8C%E5%AD%A6%E6%9C%AF%E7%95%8C%E7%9A%84%E5%B7%AE%E5%BC%82.pdf">AI on the Edge - Discussion on the Gap Between Industry and Academia</a>" at <a  href="http://valser.org/"><strong>VALSE</strong></a> Webinar.</li></p>
-      <p><li> 05/2020, "<a href="https://www.bilibili.com/video/av925692420/">Edge AI: Progress and Future Directions</a>" at <a href="https://www.qbitai.com/"> <strong>QbitAI</strong></a> using <a  href="https://www.bilibili.com/"><strong>bilibili</strong></a>.</li></p>
-  </div>
- <!-- The Publications Section -->
-  <div class="w3-container w3-padding-32"" id="publications">
-    <h2>Research</h2>
-      <p class="w3-left-align" style="line-height:200%">
-        I'm interested in devleoping <strong>efficient models</strong> for computer vision (e.g. classification, detection, and super-resolution) using pruning, quantization, distilaltion, NAS, etc.
-      </p>
-    
-      <h4> Journal Papers:</h4>
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Zhu, J. Lei, R. Yang, and L. Yu, "LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images," <b><i>IEEE Transactions on Image Processing </i></b>, doi: 10.1109/TIP.2023.3242775. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10042233" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/zyrant/LSNet">[Code & Results]</a> 
+<br></li>	
 
-      <li><strong>CIMFNet: Cross-layer Interaction and Multiscale Fusion Network for Semantic Segmentation of High-Resolution Remote Sensing Images</strong>
-      <br>
-      Wujie Zhou, <strong>Jianhui Jin</strong>, Jingsheng Lei, Lu Yu
-      <br>
-      <em>IEEE JSTSP</em> 2022 | <a style="color: #447ec9" href="https://ieeexplore.ieee.org/abstract/document/9735276">paper</a> 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, F. Sun, Q. Jiang, R. Cong, and J.-N. Hwang, "WaveNet: Wavelet Network with Knowledge Distillation for RGB-T Salient Object Detection," <b><i>IEEE Transactions on Image Processing </i></b>, doi: 10.1109/TIP.2023.3275538. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10127616" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/nowander/WaveNet">[Code & Results]</a> 
+<br></li>	
+	
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Q. Guo, J. Lei, L. Yu and J.-N. Hwang, "IRFR-Net: Interactive Recursive Feature-reshaping Network for Detecting Salient Objects in RGB-D Images," <b><i>IEEE Transactions on Neural Networks and Learning Systems</i></b>, doi: 10.1109/TNNLS.2021.3105484. <span style="color:blue">(SCI, ESI Hot Paper, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9519891" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1GvyrRANw0Tk3Wg-RvodCcQ">[Results]</a> 提取码: dwdn 
+<br></li>
 
-      <li><strong>CEGFNet: Common extraction and gate fusion network for scene parsing of remote sensing images</strong>
-      <br>
-      Wujie Zhou*, <strong>Jianhui Jin</strong>*, Jingsheng Lei, Jenq-Neng Hwang
-      <br>
-      <em>IEEE TGRS</em> 2021 (* equal contribution) | <a style="color: #447ec9" href="https://ieeexplore.ieee.org/abstract/document/9538389">paper</a> | <a style="color: #447ec9" href="https://github.com/NIT-JJH/CEGFNet">code</a>
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Lv, J. Lei and L. Yu, “Global and Local-Contrast Guides Content-Aware Fusion for RGB-D Saliency Prediction,” <b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></b>, vol. 51, no. 6, pp. 3641-3649, 2021. doi: 10.1109/TSMC.2019.2957386. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/8941002" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1ojHfKJRWaYAsrCTAP8WelQ">[Results]</a> 提取码: 3pgj 
+<br></li>
 
-<!-- The Awards Section -->
-  <div class="w3-container w3-padding-32" id="award">
-    <h2>Awards</h2>
-    <p><li> 2020, <a href="https://mp.weixin.qq.com/s/dORL01lgFNDHgjp3KMJmiQ">Nomination for Outstanding Youth Paper Award</a>, <a href="https://worldaic.com.cn/portal/en/aboutus.html">WAIC</a></p>               
-    <p><li> 2017, <a href="https://research.google/outreach/phd-fellowship/recipients/?category=2017">Google PhD Fellowship</a></p>
-    <p><li> 2017, <a href="http://scholarship.baidu.com/">Baidu Scholarship</a></p>
-    <p><li> 2017, President's PhD Scholarship, Peking University</p>
-    <p><li> 2017, National Scholarship for Graduate Students</p>
-    <p><li> 2016, National Scholarship for Graduate Students</p>
-  </div>  
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Wu, J. Lei, J.-N. Hwang and L. Yu, “Salient Object Detection in Stereoscopic 3D Images Using a Deep Convolutional Residual Autoencoder,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2020.3025166. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9201176" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Q. Guo, J. Lei, L. Yu and J.-N. Hwang, “ECFFNet: Effective and Consistent Feature Fusion Network for RGB-T Salient Object Detection,” <b><i>IEEE Transactions on Circuits and Systems for Video Technology</i></b>, doi: 10.1109/TCSVT.2021.3077058. <span style="color:blue">(SCI, ESI Hot Paper, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9420662" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1Cp6RQMwX3GOTdn3PNyQ72A">[Results]</a> 提取码: tx48 
+<br></li>
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Zhu, J. Lei, J. Wan, and L. Yu, "CCAFNet: Crossflow and cross-scale adaptive fusion network for detecting salient objects in RGB-D images," <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2021.3077767. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9424966" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/zyrant/CCAFNet">[Code & Results]</a>
+<br></li>
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, W. Liu, J. Lei, T. Luo, L. Yu, “Deep binocular fixation prediction using hierarchical multimodal fusion network,” <b><i>IEEE Transactions on Cognitive and Developmental Systems</i></b>, doi: 10.1109/TCDS.2021.3051010. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9320595" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Pan, J. Lei, and L. Yu, "TMFNet: Three-Input Multilevel Fusion Network for Detecting Salient Objects in RGB-D Images," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2021.3097393. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9512550" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+  
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Zhu, J. Lei, J. Wan, and L. Yu, "APNet: Adversarial-Learning-Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2021.3118043. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9583676/" target="_blank">[IEEE Xplore] </a><a href="https://github.com/zyrant/APNet">[Code & Results]</a> 
+<br></li>
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, C. Liu, J. Lei, and L. Yu, "Remaking learning: A lightweight network for saliency redetection on RGB-D images," <b><i>SCIENCE CHINA Information Sciences （中国科学）</i></b>, Accept. https://doi.org/10.1007/s11432-020-3337-9 <span style="color:blue">(SCI)</span> <a href="https://pan.baidu.com/s/1qIPTSdCtbThjASKE8qHA5w">[Results]</a> 提取码: zust 
+ <br></li>
+
+</div>
+</ul>	
+
+#### RGB–thermal Semantic Segmentation
+
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
+	
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, C. Xu, Y. Qian, “Edge-aware guidance fusion network for RGB–thermal scene parsing,” <b><i>in Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)</i></b>, Accept, <span style="color:blue"><a href="https://github.com/ShaohuaDong2021/EGFNet">[Code & Results]</a>     (CCF A类) </span>  
+<br></li>
+	
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i></b>, vol. 30, pp. 7790-7802, 2021. doi: 10.1109/TIP.2021.3109518. <span style="color:blue">(SCI, CCF A类, Popular Documents, ESI Hot Paper, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/Jinfu0913/GMNet">[Code & Results]</a> 
+<br></li>
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, H. Zhang, W. Yan, and W. Lin, “MMSMCNet: Modal Memory Sharing and Morphological Complementary Networks for RGB-T Urban Scene Semantic Segmentation,” <b><i>IEEE Transactions on Circuits and Systems for Video Technology</i></b>, doi: 10.1109/TCSVT.2023.3275314. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10123009" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/2021nihao/MMSMCNet">[Results]</a>
+<br></li>
+	
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, X. Lin, J. Lei, L. Yu and J.-N. Hwang, "MFFENet: Multiscale Feature Fusion and Enhancement Network for RGB–Thermal Urban Road Scene Parsing,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2021.3086618. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9447924" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1dm1ZKfEStRNCdNabFcj8wQ">[Results]</a> 提取码: 1d45 
+<br></li>
+ 
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, J. Lei, and L. Yu, “MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding,” <b><i>IEEE Transactions on Intelligent Vehicles </i></b>, doi: 10.1109/TIV.2022.3164899. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9749834" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>S. Dong, W. Zhou*</b>, C. Xu, and W. Yan, "EGFNet: Edge-Aware Guidance Fusion Network for RGB–Thermal Urban Scene Parsing," <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2023.3306368. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10234530/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Lv, J. Lei, and L. Yu, "Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing," <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2023.3242651. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10041960/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, M. Fang, and L. Yu, "CACFNet: Cross-Modal Attention Cascaded Fusion Network for RGB-T Urban Scene Parsing," <b><i>IEEE Transactions on Intelligent Vehicles</i></b>, doi: 10.1109/TIV.2023.3314527. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10251592/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+ 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, T. Gong, J. Lei and L. Yu, “DBCNet: Dynamic Bilateral Cross-Fusion Network for RGB-T Urban Scene Understanding in Intelligent Vehicles,” <b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></b>,  doi: 10.1109/TSMC.2023.3298921. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/10217340" target="_blank">[IEEE Xplore] </a>
+<br></li>
+
+</div>
+</ul>
+
+#### RGB–D Semantic Segmentation
+
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Cai, L. Zhang, W. Yan, and L. Yu, "UTLNet: Uncertainty-aware Transformer Localization Network for RGB-Depth Mirror Segmentation,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2023.3323890. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10278472/" target="_blank">[IEEE Xplore] </a>  
+<br></li>
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Xiao, W. Yan, and L. Yu, "CMPFFNet: Cross-Modal and Progressive Feature Fusion Network for RGB-D Indoor Scene Semantic Segmentation,” <b><i>IEEE Transactions on Automation Science and Engineering</i></b>, doi: 10.1109/TASE.2023.3313122. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10252155/" target="_blank">[IEEE Xplore] </a>  
+<br></li>
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, E. Yang, J. Lei, J. Wan, and L. Yu , "PGDENet: Progressive Guided Fusion and Depth Enhancement Network for RGB-D Indoor Scene Parsing,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2022.3161852. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9740493/" target="_blank">[IEEE Xplore] </a>  
+<br></li>
+	
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, E. Yang, J. Lei, L. Yu, "FRNet: Feature Reconstruction Network for RGB-D Indoor Scene Parsing,” <b><i>IEEE Journal of Selected Topics in Signal Processing</i></b>, doi: 10.1109/JSTSP.2022.3174338. <span style="color:blue">(SCI, ESI Hot Paper, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9774020" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/EnquanYang2022/FRNet">[Code & Results]</a>
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, T. Luo, “TSNet: Three-stream Self-attention Network for RGB-D Indoor Semantic Segmentation,” <b><i>IEEE Intelligent Systems</i></b>, vol. 36, no. 4, pp. 73-78, 2021. doi: 10.1109/MIS.2020.2999462. <span style="color:blue">(SCI, Popular Documents, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9113665" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+	
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Lv, J. Lei, and L. Yu, "RFNet: Reverse Fusion Network with Attention Mechanism for RGB-D Indoor Scene Understanding," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2022.2160720. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9755197/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, G. Xu, F. Qiang, and L. Yu, "ACENet: Auxiliary Context-Information Enhancement Network for RGB-D Indoor Scene Semantic Segmentation," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2023.3303930. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10226338/" target="_blank">[IEEE Xplore] </a> 
+<br></li>	
+		
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Yue, M. Fang, X. Qian, R. Yang, and L. Yu, "BCINet: Bilateral cross-modal interaction network for indoor scene understanding in RGB-D images," <b><i>Information Fusion </i></b>, doi: 10.1016/j.inffus.2023.01.016. <span style="color:blue">(SCI, ESI Hot Paper, ESI Highly Cited Paper)</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523000234/" target="_blank">[Science Direct] </a> 
+<br></li>
+
+</div>
+</ul>
+
+#### Remote Sensing Images
+
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, X. Fan, W. Yan, S. Shan, Q. Jiang, and J.-N. Hwang, "Graph Attention Guidance Network With Knowledge Distillation for Semantic Segmentation of Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, doi: 10.1109/TGRS.2023.3311480. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10244111" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/F8AoMn/GAGNet-KD">[Code & Results]</a> 
+<br></li>
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Jin, J. Lei, and J.-N. Hwang, "CEGFNet: Common Extraction and Gate Fusion Network for Scene Parsing of Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, doi: 10.1109/TGRS.2021.3109626. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9538389" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/NIT-JJH/CEGFNet">[Code & Results]</a> 
+<br></li>
+	
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Jin, J. Lei, L. Yu, "CIMFNet: Cross-layer Interaction and Multiscale Fusion Network for Semantic Segmentation of High-Resolution Remote Sensing Images,” <b><i>IEEE Journal of Selected Topics in Signal Processing</i></b>, doi: 10.1109/JSTSP.2022.3159032. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9735276" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, X. Fan, L. Yu and J. Lei,"MISNet: Multiscale Cross-layer Interactive and Similarity Refinement Network for Scene Parsing of Aerial Images," <b><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing </i></b>, doi: 10.1109/JSTARS.2023.3243247. <span style="color:blue">(SCI, ESI Hot Paper)</span> <a href="https://ieeexplore.ieee.org/document/10040743/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+		
+<li style="margin-bottom: 15px"> <b>X. Fan, W. Zhou*</b>, X. Qian, and W. Yan, "Progressive Adjacent-Layer coordination symmetric cascade network for semantic segmentation of Multimodal remote sensing images," <b><i>Expert Systems with Applications </i></b>, doi: 10.1016/j.eswa.2023.121999. <span style="color:blue">(SCI)</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423025010/" target="_blank">[Science Direct] </a>
+<br></li>
+
+</div>
+</ul>
+
+#### Surface Defect Inspection
+
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
+
+<li style="margin-bottom: 15px"> <b>W. Zhou</b>, K. Hong, W. Yan, and Q. Jiang, "Modal Evaluation Network via Knowledge Distillation for No-Service Rail Surface Defect Detection," <b><i> IEEE Transactions on Circuits and Systems for Video Technology</i></b>, doi: 10.1109/TCSVT.2023.3325229. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10286557/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/hjklearn/Rail-Defect-Detection">[Code & Results]</a><br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, and K. Hong, "FHENet: Lightweight Feature Hierarchical Exploration Network for Real-Time Rail Surface Defect Inspection in RGB-D Images," <b><i> IEEE Transactions on Instrumentation and Measurement</i></b>, doi: 10.1109/TIM.2023.3237830. <span style="color:blue">(SCI, ESI Hot Paper, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/10019291/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/Wang-5ying/PENet-KD">[Code & Results]</a> 
+<br></li>	
+
+<li style="margin-bottom: 15px"> B. Wang, <b>W. Zhou*</b>, W. Yan, Q. Jiang, and R. Cong, "PENet-KD: Progressive Enhancement Network via Knowledge Distillation for Rail Surface Defect Detection," <b><i> IEEE Transactions on Instrumentation and Measurement</i></b>, doi: 10.1109/TIM.2023.33330222. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10309228/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/hjklearn/Rail-Defect-Detection">[Code & Results]</a> 
+<br></li>
+
+</div>
+</ul>
+
+#### Crowd Counting
+
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
+	
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Pan, L. Ye, and L. Yu, "DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting," <b><i> IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2022.3203385. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9889192/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/panyi95/DEFNet">[Code & Results]</a> 
+<br></li>	
+  
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, X. Yang, J. Lei, W. Yan, and L. Yu, "MC 3 Net: Multimodality Cross-Guided Compensation Coordination Network for RGB-T Crowd Counting," <b><i> IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2023.3321328. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10285562/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/WBangG/MC3Net">[Code & Results]</a> 
+<br></li>
+
+</div>
+</ul>
+
+#### Image Quality Assessment
+  
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
+  
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” <b><i>IEEE Transactions on Image Processing</i></b>, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. <span style="color:blue">(SCI, CCF A类)</span> <a href="https://ieeexplore.ieee.org/document/8259349" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"><b>W. Zhou*</b> and L. Yu, “Binocular Responses for No-Reference 3D Image Quality Assessment,” <b><i>IEEE Transactions on Multimedia</i></b>, vol. 18, no. 6, pp. 1077-1084, June 2016, doi: 10.1109/TMM.2016.2542580. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/7434031" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, W. Qiu and M. Wu, “Utilizing Dictionary Learning and Machine Learning for Blind Quality Assessment of 3-D Images,” <b><i>IEEE Transactions on Broadcasting</i></b>, vol. 63, no. 2, pp. 404-415, June 2017, doi: 10.1109/TBC.2016.2638620. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/7811252" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, Q. Jiang, L. Yu and T. Luo, “Blind Binocular Visual Quality Predictor Using Deep Fusion Network,” <b><i>IEEE Transactions on Computational Imaging</i></b>, vol. 6, pp. 883-893, 2020, doi: 10.1109/TCI.2020.2993640. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9093188" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M.-W. Wu, T. Luo, “Blind quality estimator for 3D images based on binocular combination and extreme learning machine,” <b><i>Pattern Recognition</i></b>, vol. 71, pp. 207–217, Nov. 2017. <span style="color:blue">(SCI)</span> 
+<br></li>
+
+</div>
+</ul>	
+
+<a href="https://clustrmaps.com/site/1bsiu"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_STtdGdg0IG1p3VGKdLhg5kqLMmiLIfMpCIbz67P0Tc&cl=ffffff" /></a>
