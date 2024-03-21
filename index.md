@@ -50,7 +50,7 @@
 <li style="margin-bottom: 15px">W. Zhou, <b>J. Jin</b>, J. Lei, L. Yu, "CIMFNet: Cross-layer Interaction and Multiscale Fusion Network for Semantic Segmentation of High-Resolution Remote Sensing Images,” <b><i>IEEE Journal of Selected Topics in Signal Processing</i></b>, doi: 10.1109/JSTSP.2022.3159032. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9735276" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 
-<li style="margin-bottom: 15px">W. Zhou, <b>J. Jin</b>, J. Lei, and J.-N. Hwang, "CEGFNet: Common Extraction and Gate Fusion Network for Scene Parsing of Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, doi: 10.1109/TGRS.2021.3109626. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9538389" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/NIT-JJH/CEGFNet">[Code & Results]</a> 
+<li style="margin-bottom: 15px">W. Zhou, <b>J. Jin</b>, J. Lei, and J.-N. Hwang, "CEGFNet: Common Extraction and Gate Fusion Network for Scene Parsing of Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, doi: 10.1109/TGRS.2021.3109626. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9538389" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 	
 </div>
