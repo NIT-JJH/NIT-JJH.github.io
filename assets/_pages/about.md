@@ -234,10 +234,10 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 
 # <font color="#2B6ADD"> Academic Service </font>
 + **Associate Editors:**
-  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-  - Information Sciences
-  - Visual Computer
+  - Pattern Recognition (PR)
+  - Displays
+  - Journal of Visual Communication and Image Representation (JVCI)
+  - IET Image Processing
 + **(Senior) Program Committee Member:**
   - Computer Vision and Pattern Recognition (CVPR)
   - International Conference on Computer Vision (ICCV)
