@@ -19,8 +19,10 @@ redirect_from:
 
 
 <p style="text-align: justify;font-family: Roboto;">
-I am currently a Professor in 
-<a href="https://imag-njust.net/">Intelligent Media Analysis Group      (IMAG)</a>, at School of Computer Science and Engineering, Nanjing University of Science and Technology, China. I received the Ph.D. degree from School of Computer Science and Engineering, Nanjing University of Science and Technology, China, under the supervisor Prof. Jinhui Tang, a leader professor of Intelligent Media Analysis Group (IMAG). Previously, I am also an visiting scholar supervised by Prof. Shuicheng Yan in <a href="http://www.lv-nus.org/"> Learning and Vision Research Group</a> at the Department of Electrical and Computer Engineering, National University of Singapore. I am and the CCF Senior Member, and ACM Member, and IEEE Senior Member.
+I am Qiuping Jiang, a Full Professor with the School of Information Science and Engineering, Ningbo University, Ningbo, Zhejiang, China. I received the Ph.D. degree in Signal and Information Processing from Ningbo University, in June 2018. From Jan. 2017 to Jun. 2018, I visited the School of Computer Science and Engineering, Nanyang Technological University, Singapore, advised by  Prof. <a href = "https://personal.ntu.edu.sg/wslin/Home.html" target = "_blank"> Weisi Lin </a> (IEEE Fellow). The visit was supported by the Chinese Scholarship Council.
+</p>
+<p style="text-align: justify;font-family: Roboto;">
+I am the recipient of the World's Top 2% Scientists List by Stanford University and Elsevier (2022-2024), the Distinguished Youth Scholar Funding by Zhejiang Provincial Natural Science Foundation (2022), the Elsevier JVCI 2017 Best Paper Hornerable Mention Award (2017), and the Zhejiang Provincial Excellent Doctoral Dissertation Honorable Mention Award (2019). In 2023, I was elected to be a Senior Member of IEEE.
 </p>
 <span class='anchor' id='r-interests'></span>
 
