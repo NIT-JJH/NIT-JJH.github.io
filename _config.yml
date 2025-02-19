@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiangbo Shu"
+title                    : "Qiuping Jiang"
 description              : "Ph.D., Professor "
-repository               : "shuxb104/shuxb104.github.io"
+repository               : "NIT-JJH/NIT-JJH.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  FQfcm5oAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  PbPTiKYAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,16 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiangbo Shu             "
+  name             : "Qiuping Jiang             "
   avatar           : "images/ShuXB.png"
   bio              : 
-  location         : "Nanjing, P.R.China"
+  location         : "Ningbo, P.R.China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FQfcm5oAAAAJ"
-  email            : "shuxb@njust.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN&oi=ao"
+  email            : "jiangqiuping@nbu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : " http://202.119.85.163/open/TutorInfo.aspx?dsbh=aE30wCkG0tM6Gghyn93SpQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk= "
+  uri              : # " http://202.119.85.163/open/TutorInfo.aspx?dsbh=aE30wCkG0tM6Gghyn93SpQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk= "
   bitbucket        :
   codepen          :
   dribbble         :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : https://dblp.uni-trier.de/pid/169/3410.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0000-0003-4902-4663 # e.g., "https://orcid.org/xxxx"
+  dblp             : # https://dblp.uni-trier.de/pid/169/3410.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # https://orcid.org/0000-0003-4902-4663 # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
