@@ -182,7 +182,7 @@ Immersive Multimedia Computing.</p>
     </tr>
 </table>
 
-For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com.hk/citations?user=FQfcm5oAAAAJ&hl=zh-CN&oi=ao).
+For more papers, please kindly refer to [my Google Scholar page]([https://scholar.google.com.hk/citations?user=FQfcm5oAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN&oi=ao)).
 
 <span class='anchor' id='ha'></span>
 
