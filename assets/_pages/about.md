@@ -31,12 +31,15 @@ I am the recipient of the World's Top 2% Scientists List by Stanford University 
 
 # <font color="#2B6ADD" > Researh Interests </font>
 <p style="font-family: Roboto;">
-Video understanding, Action analysis, and related human-centric problems in Computer Vision and Multimedia.</p>
+Visual Perception Modeling,
+Image/Video Quality Assessment,
+Image/Video Quality Enhancement,
+Immersive Multimedia Computing.</p>
 <br>
 <font color=Brown>
 <i style="font-family: Roboto;">*Positions for Interns/Master/PhD's Programme*</i>
 <br>
- <i style="font-family: Roboto;">We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (shuxb@njust.edu.cn) if you are interested.</i>
+ <i style="font-family: Roboto;">We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (jiangqiuping@nbu.edu.cn) if you are interested.</i>
 </font>
 
 <span class='anchor' id='pub'></span>
