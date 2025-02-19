@@ -58,7 +58,7 @@ Immersive Multimedia Computing.</p>
 <table align="center" border="none">
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/CDi-Net.png"/>
+        <img align="left" width="450" height="300" src="../images/CDi-Net.png"/>
       </td>
       <td>
         <p text-align="left">
