@@ -58,125 +58,132 @@ Immersive Multimedia Computing.</p>
 <table align="center" border="none">
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/DoFIT.png"/>
+        <img align="left" width="330" height="240" src="../images/CDi-Net.png"/>
       </td>
       <td>
         <p text-align="left">
-        Binqian Xu, <b>Xiangbo Shu*</b>, Haiyang Mei, Zechen Bai, Basura Fernando, Mike Zheng Shou, Jinhui Tang. DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting. The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
-        <a href="https://openreview.net/pdf?id=FDfrPugkGU">[PDF-Link]</a>
-        <a href="https://github.com/1xbq1/DoFIT">[Code-Link]</a>
+        Zhihua Wang, Keshuo Xu, Keyan Ding, <b>Qiuping Jiang</b>, Yifan Zuo, Zhangkai Ni, Yuming Fang. CD-iNet: Deep Invertible Network for Perceptual Image Color Difference Measurement. International Journal of Computer Vision (IJCV), 2024.
+        <a href="https://link.springer.com/article/10.1007/s11263-024-02087-7">[Paper-Link]</a>
+        <a href="https://github.com/hellooks/CD-iNet">[Code-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/MAGC.png"/>
+        <img align="left" width="330" height="240" src="../images/HCLR_Net.png"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Xiangbo Shu</b>, Binqian Xu, Liyan Zhang, Jinhui Tang. Multi-Granularity Anchor-Contrastive Representation Learning for Semi-supervised Skeleton-based Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023.
+        Jingchun Zhou, Jiaming Sun, Chongyi Li, <b>Qiuping Jiang*</b>, Man Zhou, Kin-Man Lam, Weishi Zhang. HCLR-Net: Hybrid Contrastive Learning Regularization with Locally Randomized Perturbation for Underwater Image Enhancement. International Journal of Computer Vision (IJCV), 2024.
         <b>(ESI Highly Cited Paper)</b>
-        <a href="https://github.com/shuxb1s04/shuxb104.github.io/blob/main/paper/MGAC.pdf">[PDF-Link]</a>
-        <a href="https://github.com/1xbq1/MAC-Learning">[Code-Link]</a>
+        <a href="https://link.springer.com/article/10.1007/s11263-024-01987-y">[Paper-Link]</a>
+        <a href="https://github.com/zhoujingchun03/HCLR-Net">[Code-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/CCGL.png"/>
+        <img align="left" width="330" height="240" src="../images/IJCV2023.png"/>
       </td>
       <td>
         <p text-align="left">
-        Jinhui Tang, <b>Xiangbo Shu*</b>, Rui Yan, and Liyan Zhang. Coherence Constrained Graph LSTM for Group Activity Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. <b>(ESI Highly Cited Paper)</b>, <b>(ESI Hot Paper)</b> 
-        <a href="https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/CCGL.pdf">[PDF-Link]</a>
+        Jingchun Zhou, Qian Liu, <b>Qiuping Jiang</b>, Wenqi Ren, Kin-Man Lam*, Weishi Zhang*. Underwater Camera: Improving Visual Perception Via Adaptive Dark Pixel Prior and Color Correction. International Journal of Computer Vision (IJCV), 2024. 
+        <a href="https://link.springer.com/article/10.1007/s11263-023-01853-3">[Paper-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/SCRN.png"/>
+        <img align="left" width="330" height="240" src="../images/WaveNet.png"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Xiangbo Shu</b>, Liyan Zhang*, Guo-Jun Qi, Wei Liu, and Jinhui Tang. Spatiotemporal co-attention recurrent neural networks for human-skeleton motion prediction. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021. <b>(ESI Highly Cited Paper)</b>
-        <a href="https://arxiv.org/pdf/1909.13245.pdf">[PDF-Link]</a>
+        Wujie Zhou, Fan Sun, <b>Qiuping Jiang*</b>, Runmin Cong, Jenq-Neng Hwang. WaveNet: Wavelet Network With Knowledge Distillation for RGB-T Salient Object Detection. IEEE Transactions on Image Processing (TIP), 2023.
+        <a href="https://ieeexplore.ieee.org/document/10127616">[Paper-Link]</a>
+        <a href="https://github.com/nowander/WaveNet">[Code-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/GLIL.png"/>
+        <img align="left" width="330" height="240" src="../images/KLTJND.PNG"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Xiangbo Shu</b>, Liyan Zhang, Yunlian Sun, and Jinhui Tang. Host-Parasite: Graph LSTM-In-LSTM for Group Activity Recognition. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021. <b>(ESI Highly Cited Paper)</b>
-        <a href="https://github.com/shuxb104/shuxb104.github.io/blob/main/paper/HPGL.pdf">[PDF-Link]</a>
+        <b>Qiuping Jiang*</b>, Zhentao Liu, Shiqi Wang, Feng Shao, Weisi Lin. Toward Top-Down Just Noticeable Difference Estimation of Natural Images. IEEE Transactions on Image Processing (TIP), 2022. 
+        <a href="https://arxiv.org/abs/2108.05058v2">[Paper-Link]</a>
+        <a href="https://github.com/Zhentao-Liu/KLT-JND">[Code-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/H-LSCTM.png"/>
+        <img align="left" width="330" height="240" src="../images/RealSRQ_KLTSRQA.PNG"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Xiangbo Shu</b>, Jinhui Tang, Guo-Jun Qi, Wei Liu, and Jian Yang. Hierarchical Long Short-Term Concurrent Memory for Human Interaction Recognition. IEEE Transacti on Pattern Analysis and Machine Intelligence (TPAMI), 2021. <b>(ESI Highly Cited Paper)</b>, <b>(ESI Hot Paper)</b>
-        <a href="https://arxiv.org/pdf/1811.00270.pdf">[PDF-Link]</a>
+        <b>Qiuping Jiang</b>, Zhentao Liu*, Ke Gu, Feng Shao, Xinfeng Zhang, Hantao Liu, Weisi Lin. Single Image Super-Resolution Quality Assessment: A Real-World Dataset, Subjective Studies, and an Objective Metric. IEEE Transactions on Image Processing (TIP), 2022. <b>(Top50 Popular Articles)</b>
+        <a href="https://ieeexplore.ieee.org/document/9727079">[Paper-Link]</a>
+        <a href="https://github.com/Zhentao-Liu/RealSRQ-KLTSRQA">[Code & Dataset-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/SUGAR.png"/>
+        <img align="left" width="330" height="240" src="../images/ACM.png"/>
       </td>
       <td>
         <p text-align="left">
-        Jinhui Tang, <b>Xiangbo Shu</b>, Zechao Li, Yu-Gang Jiang, Qi Tian. Social Anchor-Unit Graph Regularized Tensor Completion for Large-Scale Image Retagging. IEEE Transactions on Pattern Analysis and Machine Intelligenc (TPAMI), 2019.
-        <a href="https://arxiv.org/pdf/1804.04397.pdf">[PDF-Link]</a>
+        Wu Chen, Hehe Fan, <b>Qiuping Jiang*</b>, Chao Huang, Yi Yang. Progressive Point Cloud Denoising with Cross-Stage Cross-Coder Adaptive Edge Graph Convolution Network. ACM International Conference on Multimedia (ACM MM), 2024. 
+        <a href="https://openreview.net/pdf?id=LOJdqiqbAt">[Paper-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/PAP.png"/>
+        <img align="left" width="330" height="240" src="../images/FSANet.png"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Xiangbo Shu</b>, Jinhui Tang, Zechao Li, Hanjiang Lai, Liyan Zhang, and Shuicheng Yan. Personalized Age Progression with Bi-level Aging Dictionary Learning. IEEE Transaction on Pattern Analysis and Machine Intelligence (TPAMI), 2018.
-        <a href="https://arxiv.org/pdf/1706.01039.pdf">[PDF-Link]</a>
+        <b>Qiuping Jiang</b>, Jinguang Cheng, Zongwei Wu, Runmin Cong, Radu Timofte. High-Precision Dichotomous Image Segmentation With Frequency and Scale Awareness. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024.
+        <a href="https://ieeexplore.ieee.org/document/10638122">[Paper-Link]</a>
+        <a href="https://github.com/chasecjg/FSANet">[Code-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/CFR.png"/>
+        <img align="left" width="330" height="240" src="../images/MCOLE.png"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Xiangbo Shu</b>, Liyan Zhang, Jinhui Tang, Guo-Sen Xie, Shuicheng Yan. Computational Face Reader. MultiMedia Modeling (MMM), 2016. <b>(Best Student Paper)</b>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10">[PDF-Link]</a>
+        <b>Qiuping Jiang</b>, Xiao Yi, Li Ouyang, Jingchun Zhou, Zhihua Wang*. Towards Dimension-Enriched Underwater Image Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024. 
+        <a href="https://ieeexplore.ieee.org/document/10689635">[Paper-Link]</a>
+        <a href="https://github.com/0117Tzx/MCOLE">[Code-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/DTNs.png"/>
+        <img align="left" width="330" height="240" src="../images/DEHN.png"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Xiangbo Shu</b>, Guo-Jun Qi, Jinhui Tang, Jingdong Wang. Weekly-Shared Deep Transfer Networks for Heterogeneous-Domain Knowledge Propagation. ACM Multimedia (MM), 2015. <b>(Best Paper Candidate)</b>        
-        <a href="https://shuxb104.github.io/paper/WSDT.pdf">[PDF-Link]</a>
+        Wu Chen, <b>Qiuping Jiang*</b>, Wei Zhou, Long Xu, Weisi Lin. Dynamic Hypergraph Convolutional Network for No-Reference Point Cloud Quality Assessment. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.       
+        <a href="https://ieeexplore.ieee.org/abstract/document/10549980">[Paper-Link]</a>
+        <a href="https://github.com/chenwuwq/DHCN">[Code-Link]</a>
         </p>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/PAPD.png"/>
+        <img align="left" width="330" height="240" src="../images/ResJND.png"/>
       </td>
       <td>
         <p text-align="left">
-        <b>Xiangbo Shu</b>, Jinhui Tang, Hanjiang Lai, Luoqi Liu, Shuicheng Yan. Personalized Age Progression with Aging Dictionary. IEEE International Conference on Computer Vision (ICCV), 2015.
-        <a href="https://openaccess.thecvf.com/content_iccv_2015/papers/Shu_Personalized_Age_Progression_ICCV_2015_paper.pdf">[PDF-Link]</a>
+        <b>Qiuping Jiang</b>, Feiyang Liu, Zhihua Wang*, Shiqi Wang, Weisi Lin. Rethinking and Conceptualizing Just Noticeable Difference Estimation by Residual Learning. IEEE Transactions on Circuits Systems for Video Technology (TCSVT), 2024.
+        <a href="https://ieeexplore.ieee.org/abstract/document/10526290">[Paper-Link]</a>
+        <a href="https://github.com/Knife646/ResJND">[Code-Link]</a>
         </p>
       </td>
     </tr>
@@ -184,7 +191,7 @@ Immersive Multimedia Computing.</p>
 
 For more papers, please kindly refer to [my Google Scholar page]([https://scholar.google.com.hk/citations?user=FQfcm5oAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?user=PbPTiKYAAAAJ&hl=zh-CN&oi=ao)).
 
-<span class='anchor' id='ha'></span>
+<!--<span class='anchor' id='ha'></span>
 
 # <font color="#2B6ADD"> Honors and Awards </font>
 - 2022 Distinguished Reviewer of IEEE TMI
@@ -200,6 +207,7 @@ For more papers, please kindly refer to [my Google Scholar page]([https://schola
 - 2015 Best Paper Runner-up in ACM Multimedia 2015
 - 2015 China National Scholarship
 - 2015 ACM MM 2015 Travel Grant
+-->
 
 <span class='anchor' id='funding'></span>
 
