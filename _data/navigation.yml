@@ -12,11 +12,8 @@ main:
   - title: "Honors and Awards"
     url: "/#ha"
 
-  - title: "Teaching"
-    url: "/#teach"
-
-  - title: "Team"
-    url: "/#team"
+  - title: "Main Research Projects"
+    url: "/#funding"
 
   - title: "Academic Service"
     url: "/#Service"
